@@ -19,6 +19,6 @@ Installation Procedure
 
    .. code-block:: bash
 
-      git clone https://github.com/moodle-by-kelsoncm/tiny_justify.git justify
+      git clone https://github.com/moodle-by-kelsoncm/moodle-tiny_justify.git justify
 
 3. Access **Site administration > Notifications** to complete registration of the plugin in the database.
