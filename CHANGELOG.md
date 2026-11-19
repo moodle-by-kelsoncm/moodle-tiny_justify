@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [1.0.22] - 2026-11-19
+## 1.0.22 - 2026-11-19
 
 ### Added
 - Privacy API provider (`classes/privacy/provider.php`, null provider: the plugin stores no personal data).
@@ -20,7 +20,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - The `lang/pt_br` folder: translations come through AMOS (lang.moodle.org).
 - The empty `db/install.php` and `db/upgrade.php`.
 
-## [1.0.20] - 2026-03-03
+## 1.0.20 - 2026-03-03
 
 ### Added
 - Initial release of the `tiny_justify` plugin for Moodle's TinyMCE editor
