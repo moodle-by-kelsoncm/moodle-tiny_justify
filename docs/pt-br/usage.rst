@@ -8,6 +8,11 @@ Utilização no Editor
 2. Selecione o texto ou parágrafo que deseja justificar.
 3. Clique no botão **Justify** na barra de ferramentas.
 
+Permissão
+---------
+
+O botão aparece para quem tem a permissão ``tiny/justify:use``, concedida a todos os papéis por padrão. Proíba-a num papel ou contexto para esconder o botão ali.
+
 Desenvolvimento & Compilação AMD
 --------------------------------
 
